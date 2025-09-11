@@ -16,6 +16,11 @@ body {
     min-height: 100vh;
 }
 
+.inline {
+    display: inline-block;
+    margin-right: 10px;
+}
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -122,4 +127,10 @@ body {
     display: grid;
     grid-template-columns: auto 1fr;
     gap: 20px;
+}
+
+.arrow {
+    font-size: 2em;
+    vertical-align: middle;
+    margin: 0 10px;
 }
