@@ -134,3 +134,12 @@ body {
     vertical-align: middle;
     margin: 0 10px;
 }
+
+.corner-logo {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    max-width: 120px;
+    z-index: 1000;
+    transform: rotate(8deg);
+}
