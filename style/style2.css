@@ -11,7 +11,7 @@
      --mijnblokken: #ff6680;
      --uitbreidingen: #0090f5;
      --voorbeelden: #cc5166;
-     --procentGrootte: 0.7;
+     --procentGrootte: 0.8;
  }
 
 
@@ -39,8 +39,7 @@
 
  img {
      transform: scale(var(--procentGrootte));
-     object-fit: scale-down;
-
+     transform-origin: left top; 
  }
 
  .bookmarkVerbinden {
@@ -139,6 +138,8 @@
      padding: 20px;
      margin-bottom: 15px;
      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+     
  }
 
  .corner-logo {
@@ -157,17 +158,17 @@
  .description {
      color: #4B5563;
      line-height: 1.6;
-     margin-top: 10px;
+     margin-top: calc(var(--procentGrootte) * 10px);
  }
 
  .arrow {
      font-size: calc(var(--procentGrootte) * 2em);
      vertical-align: middle;
-     margin: 0 10px;
+     margin: 0 calc(var(--procentGrootte) * 10px);
  }
 
  .twinview {
      display: grid;
      grid-template-columns: auto 1fr;
-     gap: 20px;
+     gap: calc(var(--procentGrootte) * 20px);
  }
