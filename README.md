@@ -3,9 +3,8 @@ LEGO Spike Cheat Sheet — Korte uitleg
 Doel
 - Deze cheat sheet is gemaakt als compact naslagwerk voor leerlingen, docenten en coaches. Hij legt kort uit waarvoor de sheet bedoeld is en geeft per blok uit de Spike for Education-app (2025) een korte uitleg en toepassingssuggestie.
 
-**Files**
-- [lego cheat sheet 2025.html](lego cheat sheet 2025.html): Open deze file in je browser. 
-- [cheatsheet-js.html](cheatsheet-js.html): OOP cheatsheet with JavaScript examples. Open directly in your browser.
+Gebruik
+- [lego cheat sheet 2025.html](legoCheatSheet2025.html): Open deze file in je browser. 
 
 Gebruik
 - Het linkermenu maakt het mogelijk direct naar afzonderlijke onderdelen te springen.
@@ -25,4 +24,3 @@ Voor wie
 
 Aanvullingen
 - Dit bestand is bedoeld als korte introductie en navigatiepunt. Wil je dat ik concrete voorbeeldprojecten, blok-voor-blok screenshots of korte codevoorbeelden toevoeg, laat het weten.
-
